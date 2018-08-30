@@ -42,3 +42,12 @@ a:hover {
   font-family: 'Open Sans', sans-serif;
   border-radius: 0 !important;
 }
+
+.pics {
+  height: 150px;
+}
+
+.well {
+  margin-left: 10px;
+  width: auto;
+}
