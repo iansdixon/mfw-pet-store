@@ -50,4 +50,19 @@ a:hover {
 .well {
   margin-left: 10px;
   width: auto;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.services {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.footer {
+  background: black;
+  height: 100px;
+}
+
+.foot {
+  margin-left: 5px;
+  border-right: solid 1px white;
 }
